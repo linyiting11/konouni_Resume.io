@@ -237,6 +237,7 @@
 
 
   .btn1{
+	display:none;
 	border-radius:40px;
 	cursor:pointer;
 	padding: 5px 15px;
